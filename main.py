@@ -7,4 +7,4 @@ with open(in_image, "rb") as i:
         output = remove(input)
         o.write(output)
 
-print("Thes image backgraund removed 😊😊")
+print("Thes image backgraund removed 😊😊");
